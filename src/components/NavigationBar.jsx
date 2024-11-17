@@ -7,7 +7,7 @@ import '../styles/NavigationBar.css'
 const NavigationBar = () => {
   return (
     <Navbar bg='light' expand="md"> 
-      <Navbar.Brand href='/'> Portfolio </Navbar.Brand>
+      {/* <Navbar.Brand href='/'> Portfolio </Navbar.Brand> */}
       <Navbar.Toggle aria-controls='basic-navbar-nav' />
       <Navbar.Collapse id='basic-navbar-nav'>
         <Nav className='mr-auto'>

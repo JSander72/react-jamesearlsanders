@@ -1,0 +1,13 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    justify-content: space-between;
+    font-size: x-large;
+    padding: 1rem 2rem;
+}
+
+.navbar :hover {
+    background-color: #f5f5f5;
+    color: #000;
+}
